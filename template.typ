@@ -12,9 +12,9 @@
 
   set heading(numbering: "1.1")
 
-  set text(size: 8pt, font: "Shippori Mincho B1 OTF", lang: "ja")
+  set text(size: 8pt, font: "Shippori Mincho B1", lang: "ja")
 
-  show math.equation: set text(font: ("New Computer Modern Math", "Shippori Mincho B1 OTF"))
+  show math.equation: set text(font: ("New Computer Modern Math", "Shippori Mincho B1"))
 
   show raw: set text(font: ("JuliaMono", "Noto Sans JP"))
 
